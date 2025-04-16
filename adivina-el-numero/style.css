@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(164, 182, 240);
+    font-family: sans-serif;
+    text-align: center;
+}
+
+#numero {
+    padding: 5px;
+    margin-right: 10px;
+}
+
+button {
+    padding: 5px 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+#mensaje {
+    margin-top: 10px;
+    font-weight: bold;
+}
+img {
+    width: 250px;
+    height: auto;
+    margin-top: 20px;
+    border-radius: 40px;
+}
